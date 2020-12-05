@@ -1,7 +1,7 @@
 # Firefly Algorithm (FA) in MATLAB
 
-<p align = "center">
-    <img src = "https://yarpiz.com/wp-content/uploads/2015/09/ypea112-firefly-algorithm.jpg" alt = "Firefly Algorithm (FA) in MATLAB">
+<p align="center">
+    <img src="https://yarpiz.com/wp-content/uploads/2015/09/ypea112-firefly-algorithm.jpg" alt="Firefly Algorithm (FA) in MATLAB">
 </p>
 
 This is an implementation of Firefly Algorithm (FA) in MATLAB.
